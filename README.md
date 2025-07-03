@@ -2,7 +2,7 @@
 
 This project uses **Sentinel-2 Surface Reflectance (S2_SR)** imagery to detect **water bodies** in the **Natore District, Bangladesh** during **April–May 2025**, based on the **Normalized Difference Water Index (NDWI)**.
 
-## 🔍 Objective
+## Objective
 To extract and visualize surface water bodies by:
 - Filtering low-cloud Sentinel-2 imagery
 - Creating NDWI maps
@@ -11,13 +11,13 @@ To extract and visualize surface water bodies by:
 
 ---
 
-## 📍 Area of Interest (AOI)
+## Area of Interest (AOI)
 
 - **Region**: Natore District, Bangladesh
 
 ---
 
-## 🛰️ Data and Filtering
+## Data and Filtering
 
 - **Dataset**: `COPERNICUS/S2_SR` (Sentinel-2 Surface Reflectance)
 - **Date Range**: `2025-04-01` to `2025-05-31`
@@ -25,7 +25,7 @@ To extract and visualize surface water bodies by:
 
 ---
 
-## 🧪 Methodology
+## Methodology
 
 1. **Define AOI** using FAO GAUL dataset.
 2. **Filter Sentinel-2 imagery** by date and cloud percentage.
@@ -51,7 +51,7 @@ To extract and visualize surface water bodies by:
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - [Google Earth Engine](https://earthengine.google.com/)
 - Sentinel-2 (S2_SR) imagery
@@ -60,7 +60,11 @@ To extract and visualize surface water bodies by:
 
 ---
 
-## 📝 Author
+## Author
 
 **Your Name**  
 [GitHub Profile](https://github.com/mdkhademali)
+
+---
+
+© mdkhademali
