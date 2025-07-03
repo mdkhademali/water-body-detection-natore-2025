@@ -62,7 +62,7 @@ To extract and visualize surface water bodies by:
 
 ## Author
 
-**Your Name**  
+**Md Khadem Ali**  
 [GitHub Profile](https://github.com/mdkhademali)
 
 ---
