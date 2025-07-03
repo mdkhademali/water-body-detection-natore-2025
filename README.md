@@ -46,7 +46,7 @@ To extract and visualize surface water bodies by:
 
 ---
 
-### Image
+## Image
 ![Image](image/outputimage.png)
 
 ---
